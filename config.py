@@ -1,0 +1,5 @@
+host = "localhost"
+user = "postgres"
+password = "GFCGJHN2002"
+db_name = "telegrambot"
+port = "5432"
